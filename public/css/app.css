@@ -1,0 +1,8 @@
+.product-list__item{
+    margin-bottom: 25px;
+}
+
+.order-item{
+    margin-top:10px;
+    border-top: 2px solid slategray;
+}
